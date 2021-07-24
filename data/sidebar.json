@@ -1,0 +1,55 @@
+{
+	"menu":[
+		{
+			"name": "The Business Value Delivery Problem",
+			"sub": [
+				{
+				"name": "Business Problem"
+				},
+				{
+				"name": "Busniess Value"
+				},
+				{
+				"name": "Dimensions of Business Value"
+				},
+				{
+				"name": "The Customer Value Hierarchy"
+				},
+				{
+				"name": "Kano Model"
+				}
+			]
+		},
+		{
+			"name": "The IT Value Delivery <br> Problem",
+			"sub": [
+				{
+				"name": "IT Imapcts Business Value"
+				},
+				{
+				"name": "The Emergence of Cloud Technology"
+				},
+				{
+				"name": "Global Supply"
+				},
+				{
+				"name": "Workforce Automation"
+				},
+				{
+				"name": "Digitally Disruptive Competition"
+				}
+			]
+		},
+		{
+			"name": "Placholder for <br> Topic 03",
+			"sub": [
+				{
+				"name": "Workforce Automation"
+				},
+				{
+				"name": "Digitally Disruptive Competition"
+				}
+			]
+		}
+	]
+}
